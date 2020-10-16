@@ -6,4 +6,3 @@ fetch('http://puzzle.mead.io/puzzle').then((response) =>{
     })
 })
 
-fetch('')
